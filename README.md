@@ -23,7 +23,7 @@ This repository contains descriptions of my projects, organized by programming l
     </ul>
     <li><a href="#SQL">SQL</a> </li>
     <ul>
-        <li>Real-Time Agent Assignment System</li>
+        <li>Real-Time Agent Assignment System - Independent Project</li>
     </ul>
     <li><a href="#Others">Others</a> </li>
     <ul>
