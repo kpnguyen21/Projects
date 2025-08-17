@@ -101,7 +101,7 @@ This repository contains descriptions of my projects, organized by programming l
 
 <h4>Imputing missing data from stock time series - The Erdős Institute - 2024</h4>
 
-<i>Key words: machine learning, time series analysis, data imputation, linear interpolation, VAR modeling, Granger causality, Python</i>
+<i>Key words: machine learning, time series analysis, data imputation, linear interpolation, VAR, Granger causality, Python</i>
 
 <li>I addressed missing data in Apple’s 2023 stock time series from Yahoo Finance. Tested imputation methods, including linear interpolation as baseline model, KNN, linear regression, and VAR. I computed relative MSE against baseline model, finding forward-backward ARIMA performed best (relative MSE between 1.09 and 1.35), while VAR was the worst (relative MSE between 1.83 and 4.7). I concluded that linear interpolation remained the most effective method. <a href="https://www.erdosinstitute.org/certificates/may-summer-2024/data-science-boot-camp/khanh-nguyen">[LINK]</a>, <a href="https://github.com/bootstrapM/erdos-may-2024-imputing-data/">[GIT]</a>, <a href="https://www.erdosinstitute.org/_files/ugd/eda2b9_479d0ca1ce454cf3950447646f2e832a.pdf">[SLIDES]</a>
 </li>
