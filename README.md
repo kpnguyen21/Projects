@@ -53,7 +53,7 @@ This repository contains descriptions of my projects, organized by programming l
 
 <h4>Intertrial correlations in sequential decision-making tasks - University of Houston	- 2017-2020</h4>
 
-<i>Key words: stochastic modeling, Bayesian inference, decision-making processes, probabilistic feedback, MATLAB</i>
+<i>Key words: stochastic modeling, Bayesian inference, decision-making processes, probabilistic feedback, numerical simulation, MATLAB</i>
 
 <li>I was interested in strategies that humans and animals used to adjust their behaviors in a changing world with uncertain feedback. I considered a stochastic model of an ideal observer presented with a sequence of decision-making trials, in which the correct choice switches between trials. On subsequent trials, I quantified the observer's bias based on the previous decision, and on how likely the true choice is switches between trials. When no feedback was present, the best strategy was to spend more time on the first trial, so the observer profited from the bias collected on later trials. When feedback was provided as probabilistic signals, the observer should spend time to consider options and increased certainty as rewards were based on correct choices. When feedback was in form of probabilistic reward, the best strategy was to make immediate decisions to save time for more trials as accuracy was less important. <a href="https://github.com/kpnguyen21/sequential">[GIT]</a>, <a href="https://doi.org/10.1016/j.jmp.2018.11.001">[PAPER]</a>
 </li>
