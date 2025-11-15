@@ -16,6 +16,7 @@ This repository contains descriptions of my projects, organized by programming l
     </ul>
     <li><a href="#Python">Python</a></li>
     <ul>
+        <li>Deep Learning for Anti-Money Laundering: Detecting Suspicious Transactions - The Erdős Institute</li>
         <li>Addressing Membership Challenges: Insights and Strategies for Amour Beauty Box - The Erdős Institute</li>
         <li>Nook Café's Transformation: Bridging Coffee Culture and Nightlife - The Erdős Institute</li>
         <li>MarketMind: Unveiling Stock Trends with Machine Learning - The Erdős Institute</li>
@@ -75,6 +76,13 @@ This repository contains descriptions of my projects, organized by programming l
 ---
 
 <h3 id="Python">Python</h3>
+
+<h4>Deep Learning for Anti-Money Laundering: Detecting Suspicious Transactions - The Erdős Institute - 2025</h4>
+
+<i>Key words: Deep Learning, Anti-Money Laundering (AML), XGBoost, Tabular Transformer, Temporal Graph Neural Network, Python</i>
+
+<li>Money laundering accounts for 2-5% of global GDP ($800B–$2T), with detection especially difficult during the layering stage. To address this, I analyzed 9.5M transactions with 11 original features and engineered 24 temporal and graph-based features using Polars for speed and memory efficiency. Baseline XGBoost achieved high precision (0.887) but low recall (0.413), missing many suspicious cases. A Tabular Transformer improved recall (0.5993) with moderate precision (0.6492), while a Temporal Graph Neural Network outperformed both (precision: 0.812, recall: 0.814), highlighting the value of graph-based modeling for AML. These results lay a strong foundation for scalable, real-world AML systems. Future work will explore hybrid architectures, temporal graph modeling, and real-time inference.
+</li>
 
 <h4>Addressing Membership Challenges: Insights and Strategies for Amour Beauty Box - The Erdős Institute - 2025</h4>
 
