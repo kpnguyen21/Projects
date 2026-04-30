@@ -29,6 +29,7 @@ This repository contains descriptions of my projects, organized by programming l
     </ul>
     <li><a href="#Others">Others</a> </li>
     <ul>
+        <li>JobMatch AI Chrome Extension - The Erdős Institute</li>
         <li>From Browsing to Buying: A Behavioral Study for Merci's - The Erdős Institute</li>
         <li>The Bathtub of the Future: Backed by Science - Institute for Mathematics and its Applications</li>
     </ul>
@@ -129,11 +130,19 @@ This repository contains descriptions of my projects, organized by programming l
 
 <i>Key words: dynamic algorithms, matching algorithms, SQL</i>
 
-I proposed a dynamic SQL-based algorithm that matches incoming customers to the most suitable available travel agent, updated each agent's workload, and adjusted their availability ranking accordingly. Agent suitability was determined using a multi-criteria ranking system that prioritized agents with the fewest active assignments, followed by those with the most years of service and the highest average customer satisfaction scores. To validate the algorithm, I tested two operational scenarios: (1) when an agent's workload increased by assisting new customers, and (2) when an agent's workload decreased as existing customer cancelled their booking. In both cases, the algorithm consistently identified the best-matched agent, updated their load assignment, and refreshed the agent ranking table to reflect real-time availability. <a href="https://github.com/kpnguyen21/space-challenge">[GIT]</a>
+<li>I proposed a dynamic SQL-based algorithm that matches incoming customers to the most suitable available travel agent, updated each agent's workload, and adjusted their availability ranking accordingly. Agent suitability was determined using a multi-criteria ranking system that prioritized agents with the fewest active assignments, followed by those with the most years of service and the highest average customer satisfaction scores. To validate the algorithm, I tested two operational scenarios: (1) when an agent's workload increased by assisting new customers, and (2) when an agent's workload decreased as existing customer cancelled their booking. In both cases, the algorithm consistently identified the best-matched agent, updated their load assignment, and refreshed the agent ranking table to reflect real-time availability. <a href="https://github.com/kpnguyen21/space-challenge">[GIT]</a></li>
 
 ---
 
 <h3 id="Others">Others</h3>
+
+<h4>JobMatch AI Chrome Extension - The Erdős Institute - 2026</h4>
+
+<i>Key words: Claude, GenAI, Chrome extensions, Job matching</i>
+
+<li>
+Job searching has become increasingly time‑consuming, especially as most job boards still lack LinkedIn's built‑in skill‑matching capabilities. To address this gap, I developed a GenAI‑powered Chrome extension that analyzes any job description, compares it with a user's resume, and instantly highlights alignment through match scores and skill breakdowns. The system also generates tailored, ATS‑friendly resume content for each role, helping job seekers quickly adapt their applications across multiple platforms. <a href="https://github.com/kpnguyen21/jobmatch-ai">[GIT]</a>, <a href="https://0ada4d8c-c79a-4c34-ac13-e0af292bbc99.filesusr.com/ugd/eda2b9_5cac6819e21b48a2a9221ffbfcf892c9.pdf">[SLIDES]</a>
+</li>
 
 <h4>From Browsing to Buying: A Behavioral Study for Merci's - The Erdős Institute - 2025</h4>
 
