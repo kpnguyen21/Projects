@@ -29,9 +29,13 @@ This repository contains descriptions of my projects, organized by programming l
     <ul>
         <li>Real-Time Agent Assignment System - Independent Project</li>
     </ul>
+    <li><a href="#GenAI">GenAI</a> </li>
+    <ul>
+        <li>Cost-Optimized Digital Catalog & Inventory Pipeline - Freelance Project</li>
+        <li>JobMatch AI Chrome Extension - The Erdős Institute</li>
+    </ul>
     <li><a href="#Others">Others</a> </li>
     <ul>
-        <li>JobMatch AI Chrome Extension - The Erdős Institute</li>
         <li>From Browsing to Buying: A Behavioral Study for Merci's - The Erdős Institute</li>
         <li>The Bathtub of the Future: Backed by Science - Institute for Mathematics and its Applications</li>
     </ul>
@@ -148,15 +152,27 @@ This repository contains descriptions of my projects, organized by programming l
 
 ---
 
-<h3 id="Others">Others</h3>
+<h3 id="GenAI">GenAI</h3>
+
+<h4>Cost-Optimized Digital Catalog & Inventory Pipeline - Freelance Project - 2026</h4>
+
+<i>Key words: Claude, React, PostgreSQL, CI/CD, jsDelivr API, GenAI</i>
+
+<li>
+I designed and deployed a zero-cost digital catalog and inventory web application for an independent bookstore specializing in imported Vietnamese literature. To meet the client's strict budget constraints and eliminate all infrastructure overhead for her 2,000-title inventory, I implemented a relational database on the Supabase free tier to track live stock levels without payment processing fees. I resolved database storage limitations by hosting book cover images in a GitHub repository, serving them dynamically via optimized jsDelivr CDN URLs, and deployed the final application to Vercel to guarantee high performance at zero cost.
+</li>
 
 <h4>JobMatch AI Chrome Extension - The Erdős Institute - 2026</h4>
 
-<i>Key words: Claude, GenAI, Chrome extensions, Job matching</i>
+<i>Key words: Claude, Chrome extensions, Job matching, GenAI</i>
 
 <li>
 Job searching has become increasingly time‑consuming, especially as most job boards still lack LinkedIn's built‑in skill‑matching capabilities. To address this gap, I developed a GenAI‑powered Chrome extension that analyzes any job description, compares it with a user's resume, and instantly highlights alignment through match scores and skill breakdowns. The system also generates tailored, ATS‑friendly resume content for each role, helping job seekers quickly adapt their applications across multiple platforms. <a href="https://github.com/kpnguyen21/jobmatch-ai">[GIT]</a>, <a href="https://0ada4d8c-c79a-4c34-ac13-e0af292bbc99.filesusr.com/ugd/eda2b9_5cac6819e21b48a2a9221ffbfcf892c9.pdf">[SLIDES]</a>
 </li>
+
+---
+
+<h3 id="Others">Others</h3>
 
 <h4>From Browsing to Buying: A Behavioral Study for Merci's - The Erdős Institute - 2025</h4>
 
