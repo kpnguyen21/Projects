@@ -16,6 +16,7 @@ This repository contains descriptions of my projects, organized by programming l
     </ul>
     <li><a href="#Python">Python</a></li>
     <ul>
+        <li>AI-Powered Medical Intake Automation API - Freelance Project</li>
         <li>Automated ISBN Enrichment for Vietnamese Literature Catalogs - Freelance Project</li>
         <li>Deep Learning for Anti-Money Laundering: Detecting Suspicious Transactions - The Erdős Institute</li>
         <li>Addressing Membership Challenges: Insights and Strategies for Amour Beauty Box - The Erdős Institute</li>
@@ -79,11 +80,17 @@ This repository contains descriptions of my projects, organized by programming l
 
 <h3 id="Python">Python</h3>
 
+<h4>AI-Powered Medical Intake Automation API - Freelance Project - 2026</h4>
+
+<i>Key words: Large Language Model, Large Audio Language Model, regex, docker, droplet, whisper, CI/CD, Python</i>
+
+<li>I engineered a production-ready API designed to convert clinical audio conversations into structured data payloads for medical intake automation. The system ingests raw audio inputs and outputs standardized JSON files configured to auto-fill patient registration and vitals forms. To optimize computing efficiency and minimize operational costs, I successfully prototyped a hybrid extraction strategy: utilizing precise Regex processing for predictable form fields and leveraging Large Language Models (LLMs) to capture complex, context-dependent variables. Additionally, I integrated Groq's open-access API to dynamically summarize open-ended patient complaints, establishing a highly cost-effective infrastructure that significantly reduces manual data entry for healthcare providers.</li>
+
 <h4>Automated ISBN Enrichment for Vietnamese Literature Catalogs - Freelance Project - 2026</h4>
 
 <i>Key words: Beautiful Soup, web scraping, data cleaning, data integration, Python</i>
 
-I assisted an online bookstore in resolving historical data gaps by designing an automated pipeline to retrieve missing ISBN metadata from the official Vietnamese publishing registry. Because ISBN registration has historically not been a widely adopted practice in parts of the Vietnamese publishing industry, the client's catalog completely lacked these records. Facing a fragile government site prone to frequent 503 errors that made manual lookup impossible, I engineered a Python scraper to systematically target records by publisher and publication year. I then cleaned, structured, and merged the extracted data back into the client's database to successfully populate the missing fields, completely eliminating manual labor costs.
+<li>I assisted an online bookstore in resolving historical data gaps by designing an automated pipeline to retrieve missing ISBN metadata from the official Vietnamese publishing registry. Because ISBN registration has historically not been a widely adopted practice in parts of the Vietnamese publishing industry, the client's catalog completely lacked these records. Facing a fragile government site prone to frequent 503 errors that made manual lookup impossible, I engineered a Python scraper to systematically target records by publisher and publication year. I then cleaned, structured, and merged the extracted data back into the client's database to successfully populate the missing fields, completely eliminating manual labor costs.</li>
 
 <h4>Deep Learning for Anti-Money Laundering: Detecting Suspicious Transactions - The Erdős Institute - 2025</h4>
 
