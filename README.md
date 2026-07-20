@@ -16,10 +16,11 @@ This repository contains descriptions of my projects, organized by programming l
     </ul>
     <li><a href="#Python">Python</a></li>
     <ul>
+        <li>Automated ISBN Enrichment for Vietnamese Literature Catalogs - Freelance Project</li>
         <li>Deep Learning for Anti-Money Laundering: Detecting Suspicious Transactions - The Erdős Institute</li>
         <li>Addressing Membership Challenges: Insights and Strategies for Amour Beauty Box - The Erdős Institute</li>
         <li>Nook Café's Transformation: Bridging Coffee Culture and Nightlife - The Erdős Institute</li>
-        <li>MarketMind: Unveiling Stock Trends with Machine Learning - The Erdős Institute</li>
+        <li>MarketMind: Unveiling Stock with Machine Learning - The Erdős Institute</li>
         <li>Imputing missing data from stock time series - The Erdős Institute</li>
         <li>Monte Carlo Simulations of Crystallization in Pentomino Fluids - University of Texas at Dallas</li>
     </ul>
@@ -77,6 +78,12 @@ This repository contains descriptions of my projects, organized by programming l
 ---
 
 <h3 id="Python">Python</h3>
+
+<h4>Automated ISBN Enrichment for Vietnamese Literature Catalogs - Freelance Project - 2026</h4>
+
+<i>Key words: Beautiful Soup, web scraping, data cleaning, data integration, Python</i>
+
+I assisted an online bookstore in resolving historical data gaps by designing an automated pipeline to retrieve missing ISBN metadata from the official Vietnamese publishing registry. Because ISBN registration has historically not been a widely adopted practice in parts of the Vietnamese publishing industry, the client's catalog completely lacked these records. Facing a fragile government site prone to frequent 503 errors that made manual lookup impossible, I engineered a Python scraper to systematically target records by publisher and publication year. I then cleaned, structured, and merged the extracted data back into the client's database to successfully populate the missing fields, completely eliminating manual labor costs.
 
 <h4>Deep Learning for Anti-Money Laundering: Detecting Suspicious Transactions - The Erdős Institute - 2025</h4>
 
