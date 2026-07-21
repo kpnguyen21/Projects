@@ -31,6 +31,7 @@ This repository contains descriptions of my projects, organized by programming l
     </ul>
     <li><a href="#GenAI">GenAI</a> </li>
     <ul>
+        <li>Prep Matrix: Bridging PhD-to-Industry Transitions via Peer Mock Interviews - Startup Project</li>
         <li>Cost-Optimized Digital Catalog & Inventory Pipeline - Freelance Project</li>
         <li>JobMatch AI Chrome Extension - The Erdős Institute</li>
     </ul>
@@ -153,6 +154,14 @@ This repository contains descriptions of my projects, organized by programming l
 ---
 
 <h3 id="GenAI">GenAI</h3>
+
+<h4>Prep Matrix: Bridging PhD-to-Industry Transitions via Peer Mock Interviews - Startup Project - 2026</h4>
+
+<i>Key words: Claude, React, PostgreSQL, CI/CD, Ximera, peer-matching algorithm, GenAI</i>
+
+<li>
+I founded and engineered Prep Matrix, a specialized platform built with React, Supabase, and Vercel to help PhD students transition into industry technical roles. Beyond standard question banks and timed practice exams, the platform features a gated assessment system, an administrative portal for curriculum management and student analytics, and role-based access control for cohort management. To transform solo studying into a collaborative experience, I am currently developing an automated matching algorithm that pairs students with peers based on shared target roles, background qualifications, and interview timelines for peer-to-peer mock practice, bridging a critical gap in doctoral career transitions through scalable technical architecture and product-led design.
+</li>
 
 <h4>Cost-Optimized Digital Catalog & Inventory Pipeline - Freelance Project - 2026</h4>
 
